@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Globe, MapPin, Sparkles } from 'lucide-react';
+import { Analytics } from "@vercel/analytics/react"
 
 // Import separated components and data
 // Ensure these files exist in your src folder structure
