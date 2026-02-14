@@ -73,7 +73,7 @@ export default function App() {
 
         {/* Massive Title */}
         <h2 className="text-[12vw] sm:text-[14vw] leading-none font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-white via-slate-200 to-slate-600 drop-shadow-2xl animate-fade-in-up delay-100 select-none">
-          {timeLeft.completed ? "2026" : "2026"}
+          {timeLeft.completed ? "2027" : "2027"}
         </h2>
         
         {/* Subtitle / Status */}
